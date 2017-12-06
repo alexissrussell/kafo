@@ -3442,6 +3442,8 @@
 		#banner p {
 			letter-spacing: 0.225em;
 			text-transform: uppercase;
+			color: #2E3842;
+    			font-weight: 600;
 		}
 
 			#banner p a {
