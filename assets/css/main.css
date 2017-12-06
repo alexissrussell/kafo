@@ -3465,7 +3465,7 @@
 			transform: translateY(0);
 			border: none;
 			bottom: 0;
-			color: inherit;
+			color: #2E3842;
 			font-size: 1em;
 			height: 8.5em;
 			left: 50%;
@@ -3489,6 +3489,7 @@
 				bottom: 4em;
 				content: '';
 				display: block;
+				color: #2E3842;
 				height: 1.5em;
 				left: 50%;
 				margin: 0 0 0 -0.75em;
